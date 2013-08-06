@@ -14,6 +14,7 @@ pageOrder: 1
 			<li data-target="#Carousel" data-slide-to="1"></li>
 			<li data-target="#Carousel" data-slide-to="2"></li>
 			<li data-target="#Carousel" data-slide-to="3"></li>
+			<li data-target="#Carousel" data-slide-to="4"></li>
 		</ol>
 		<div class="carousel-inner">
 			<div class="item active">
@@ -21,6 +22,13 @@ pageOrder: 1
 				<div class="carousel-caption">
 					<h4>Plein air</h4>
 					<p>Открыть новые грани своей личности.</p>
+				</div>
+			</div>
+			<div class="item">
+				<img src="http://pcdn.500px.net/8336689/b8524f7f1c02c45bfd160bcfc4e5eceb3e5dc078/5.jpg" width="100%">
+				<div class="carousel-caption">
+					<h4>Wedding</h4>
+					<p>Запечатлить первый шаг вашей новой жизни.</p>
 				</div>
 			</div>
 			<div class="item">
