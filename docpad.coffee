@@ -12,32 +12,32 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
+			url: "http://ulyanafedorova.tk"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
-				'www.website.com',
+				'www.ulyanafedorova.tk',
 				'website.herokuapp.com'
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Photographer, Designer."
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				Модельная фотосъёмка для создания модельного, актерского портфолио, а также детское модельное фото. Уникальные предметы интерьера ручной работы.
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				фото, фотография, фотосъемка, свадебная фотография, интерьер, предметы интерьера, фотограф москва, пленэр, Plain air photo, пленэир фотография, фэшн фотограф, фэшн, портфолио, фото для портфолио
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Vladimir Vdovichenko"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "vvdovichencko@gmail.com"
 
 			# Styles
 			styles: [
@@ -50,6 +50,20 @@ docpadConfig = {
 				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js",
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js",
 				"/scripts/script.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-transition.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-carousel.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-affix.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-alert.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-button.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-collapse.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-dropdown.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-modal.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-popover.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-scrollspy.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-tab.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-tooltip.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-typeahead.js"
+
 			]
 
 

@@ -43,17 +43,11 @@
 			<div class="container">
 				<a class="brand" href="/">ULYANA FEDOROVA</a>
 				<ul class="nav">
-					<li typeof="sioc:Page" about="/pages/digital" class="">
-							<a href="/pages/digital" property="dc:title">Digital</a>
+					<% for document in @getCollection('pages').toJSON(): %>
+						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
+							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
 						</li>
-					
-						<li typeof="sioc:Page" about="/pages/art" class="">
-							<a href="/pages/art" property="dc:title">Art</a>
-						</li>
-					
-						<li typeof="sioc:Page" about="/pages/contacts" class="">
-							<a href="/pages/contacts" property="dc:title">Contacts</a>
-						</li>
+					<% end %>
 				</ul>
 			</div>
 		</div>
@@ -72,7 +66,28 @@
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
-	<%- @getBlock("scripts").add(["/vendor/twitter-bootstrap/js/bootstrap-carousel.js"]).toHTML() %>
+	<!--%- @getBlock("scripts").add(["/vendor/twitter-bootstrap/js/bootstrap-carousel.js"]).toHTML() %-->
 
 </body>
 </html>
+
+<!--div class="navbar navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<a class="brand" href="/">ULYANA FEDOROVA</a>
+				<ul class="nav">
+					<li typeof="sioc:Page" about="/pages/digital" class="">
+							<a href="/pages/digital" property="dc:title">Digital</a>
+						</li>
+					
+						<li typeof="sioc:Page" about="/pages/art" class="">
+							<a href="/pages/art" property="dc:title">Art</a>
+						</li>
+					
+						<li typeof="sioc:Page" about="/pages/contacts" class="">
+							<a href="/pages/contacts" property="dc:title">Contacts</a>
+						</li>
+				</ul>
+			</div>
+		</div>
+	</div-->
