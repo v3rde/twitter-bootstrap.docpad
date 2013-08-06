@@ -41,13 +41,19 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Welcome</a>
+				<a class="brand" href="/">ULYANA FEDOROVA</a>
 				<ul class="nav">
-					<% for document in @getCollection('pages').toJSON(): %>
-						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
-							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+					<li typeof="sioc:Page" about="/pages/digital" class="">
+							<a href="/pages/digital" property="dc:title">Digital</a>
 						</li>
-					<% end %>
+					
+						<li typeof="sioc:Page" about="/pages/art" class="">
+							<a href="/pages/art" property="dc:title">Art</a>
+						</li>
+					
+						<li typeof="sioc:Page" about="/pages/contacts" class="">
+							<a href="/pages/contacts" property="dc:title">Contacts</a>
+						</li>
 				</ul>
 			</div>
 		</div>
@@ -57,14 +63,16 @@
 			<%- @content %>
 		</section>
 		<footer>
-			<p class="pull-left">&copy; Company <%- (new Date()).getFullYear() %></p>
+			<p class="pull-left">&copy; All rights reserved <%- (new Date()).getFullYear() %></p>
 			<p class="pull-right">
-				This website was last updated at <%= @site.date.toISOString() %>
+				В Разработке
 			</p>
 		</footer>
 	</div><!-- /container -->
 
 	<!-- Scripts -->
 	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+	<%- @getBlock("scripts").add(["/vendor/twitter-bootstrap/js/bootstrap-carousel.js"]).toHTML() %>
+
 </body>
 </html>
