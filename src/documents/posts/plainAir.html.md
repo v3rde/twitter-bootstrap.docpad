@@ -1,12 +1,9 @@
 ```
-title: Beauty
+title: Plain Air
 layout: post
 tags: ['intro','post']
 ```
 
-Beauty
+Plain Air
 
-
-
-  	
 

@@ -1,12 +1,9 @@
 ```
-title: Beauty
+title: Wedding
 layout: post
 tags: ['intro','post']
 ```
 
-Beauty
+Wedding
 
-
-
-  	
 
