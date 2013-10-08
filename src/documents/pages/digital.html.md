@@ -31,13 +31,13 @@ pageOrder: 1
 					<p>Запечатлить первый шаг вашей новой жизни.</p>
 				</div>
 			</div>
-			<div class="item">
+			<!--div class="item">
 				<img src="https://pp.vk.me/c417619/v417619109/6b06/OlPkmQgjak4.jpg" width="100%">
 				<div class="carousel-caption">
 					<h4>Fashion</h4>
 					<p>Открыть себя в глянце.</p>
 				</div>
-			</div>
+			</div-->
 			<!--div class="item">
 				<img src="http://pcdn.500px.net/41197394/3221b4a2f5171ad119941d6579ef5550f639c8ca/2048.jpg" width="100%">
 				<div class="carousel-caption">
