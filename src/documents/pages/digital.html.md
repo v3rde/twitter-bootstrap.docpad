@@ -32,19 +32,19 @@ pageOrder: 1
 				</div>
 			</div>
 			<div class="item">
-				<img src="http://pcdn.500px.net/38218184/f57263f9d0db1059eb4f22e792e28f4862d23809/2048.jpg" width="100%">
+				<img src="https://pp.vk.me/c417619/v417619109/6b06/OlPkmQgjak4.jpg" width="100%">
 				<div class="carousel-caption">
 					<h4>Fashion</h4>
 					<p>Открыть себя в глянце.</p>
 				</div>
 			</div>
-			<div class="item">
+			<!--div class="item">
 				<img src="http://pcdn.500px.net/41197394/3221b4a2f5171ad119941d6579ef5550f639c8ca/2048.jpg" width="100%">
 				<div class="carousel-caption">
 					<h4>Портрет</h4>
 					<p>Запечатлить хорошее настроение.</p>
 				</div>
-			</div>
+			</div-->
 			<div class="item">
 				<img src="https://pp.vk.me/c405228/v405228658/b9dc/50mS49WIlM4.jpg" width="100%">
 				<div class="carousel-caption">
@@ -58,20 +58,25 @@ pageOrder: 1
 	</div>
 	<!-- </div> -->
 	<div class="row-fluid">
-        <div class="span4">
+        <div class="span3">
           <h2>Fashion</h2>
            <p>Модельная фотосъёмка для создания модельного, актерского портфолио, а также детское модельное фото.</p>
           <p><a class="btn" href="/posts/fashion">Смотреть &raquo;</a></p>
         </div>
-        <div class="span4">
+        <div class="span3">
           <h2>Portrait</h2>
            <p>Портрет это в первую очередь индивидуальностью На портрете изображается внешний облик (а через него и внутренний мир) конкретного, реального, существующего в настоящем человека. </p>
           <p><a class="btn" href="/posts/portrait">Смотреть &raquo;</a></p>
        </div>
-        <div class="span4">
+        <div class="span3">
           <h2>Beauty</h2>
           <p>Много макияжа, внешняя красота и глянец.</p>
           <p><a class="btn" href="/posts/beauty">Смотреть &raquo;</a></p>
+        </div>
+         <div class="span3">
+          <h2>Wedding</h2>
+          <p>Профессиональная свадебная фотосъемка.</p>
+          <p><a class="btn" href="/posts/wedding">Смотреть &raquo;</a></p>
         </div>
       </div>
   	

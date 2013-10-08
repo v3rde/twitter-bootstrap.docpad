@@ -52,6 +52,14 @@ docpadConfig = {
 				"/scripts/script.js"
 				"/vendor/twitter-bootstrap/js/bootstrap-transition.js"
 				"/vendor/twitter-bootstrap/js/bootstrap-carousel.js"
+
+				#Bootstrap image gallery
+				#"/vendor/twitter-bootstrap/js/bootstrap-image-gallery.js"
+				#image
+				#"/vendor/twitter-bootstrap/js/jquery.prettyPhoto.js"
+
+				#"/vendor/twitter-bootstrap/js/load-image.js"
+				#"/vendor/twitter-bootstrap/js/main.js"
 				#"/vendor/twitter-bootstrap/js/bootstrap-affix.js"
 				#"/vendor/twitter-bootstrap/js/bootstrap-alert.js"
 				#"/vendor/twitter-bootstrap/js/bootstrap-button.js"
