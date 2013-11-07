@@ -7,14 +7,15 @@ pageOrder: 1
 
 
 <!-- <div class="row-fluid"> -->
-	<!-- <div class="span12"> -->
-	<div id="Carousel" class="carousel slide">
+<!-- <div class="span12"> -->
+<!-- <div class="span12">  -->	
+<div id="Carousel" class="carousel slide">
 		<ol class="carousel-indicators">
 			<li data-target="#Carousel" data-slide-to="0" class="active"></li>
 			<li data-target="#Carousel" data-slide-to="1"></li>
 			<li data-target="#Carousel" data-slide-to="2"></li>
 			<li data-target="#Carousel" data-slide-to="3"></li>
-			<li data-target="#Carousel" data-slide-to="4"></li>
+			<!-- <li data-target="#Carousel" data-slide-to="4"></li> -->
 		</ol>
 		<div class="carousel-inner">
 			<div class="item active">
@@ -40,45 +41,43 @@ pageOrder: 1
 			</div>
 			<div class="item">
 				<img src="https://pp.vk.me/c417430/v417430109/6fe3/g2ZwwkvarTk.jpg" width="100%">
-				<div class="carousel-caption">
+				<div class="carousel-caption">100
 					<h4>Портрет</h4>
 					<p>Запечатлить хорошее настроение.</p>
 				</div>
 			</div>
-			<div class="item">
+			<!-- <div class="item">
 				<img src="https://pp.vk.me/c405228/v405228658/b9dc/50mS49WIlM4.jpg" width="100%">
 				<div class="carousel-caption">
 					<h4>Beauty</h4>
 					<p>Остановить время.</p>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<a class="left carousel-control" href="#Carousel" data-slide="prev">‹</a>
 		<a class="right carousel-control" href="#Carousel" data-slide="next">›</a>
-	</div>
-	<!-- </div> -->
+	 </div>	
+	
+<!-- </div> -->
 	<div class="row-fluid">
+		<div class="span3">
+          <h2>Wedding</h2>
+          <p>Профессиональная свадебная фотосъемка. Запечатление первых шагов вашей новой жизни. Предсвадебные лавстори. <a  href="/posts/wedding" >Смотреть&raquo;</a></p>
+        </div>
         <div class="span3">
           <h2>Fashion</h2>
-           <p>Модельная фотосъёмка для создания модельного, актерского портфолио, а также детское модельное фото.</p>
-          <p><a class="btn" href="/posts/fashion">Смотреть &raquo;</a></p>
+           <p>Модельная фотосъемка для создания модельного, актерского портфолио. Креативное исполнение модельного "Бука". Студийная съемка. Детское модельное фото. <a href="/posts/fashion">Смотреть&raquo;</a></p>
         </div>
         <div class="span3">
           <h2>Portrait</h2>
-           <p>Портрет это в первую очередь индивидуальность. На портрете изображается внешний облик (а через него и внутренний мир) конкретного, реального, существующего в настоящем человека. </p>
-          <p><a class="btn" href="/posts/portrait">Смотреть &raquo;</a></p>
+           <p>Портрет это в первую очередь индивидуальность. На портрете изображается внешний облик (а через него и внутренний мир) конкретного, реального, существующего в настоящем человека. <a href="/posts/portrait">Смотреть&raquo;</a></p>
        </div>
         <div class="span3">
-          <h2>Beauty</h2>
-          <p>Много макияжа, внешняя красота и глянец.</p>
-          <p><a class="btn" href="/posts/beauty">Смотреть &raquo;</a></p>
+          <h2>Plein air</h2>
+          <p>Арт съемка на свежем воздухе. Постановочное фото. Фото-прогулка. Необычные образы. Открытие новых граней своей личности.
+          <a href="/posts/beauty">Смотреть &raquo;</a></p>
         </div>
-         <div class="span3">
-          <h2>Wedding</h2>
-          <p>Профессиональная свадебная фотосъемка.</p>
-          <p><a class="btn" href="/posts/wedding">Смотреть &raquo;</a></p>
-        </div>
-      </div>
+       </div>
   	
 <!--/div-->
 <!--%- @getBlock("scripts").add(["/vendor/twitter-bootstrap/js/bootstrap-carousel.js"]).toHTML() %-->
