@@ -75,7 +75,7 @@ pageOrder: 1
         <div class="span3">
           <h2>Plein air</h2>
           <p>Арт съемка на свежем воздухе. Постановочное фото. Фото-прогулка. Необычные образы. Открытие новых граней своей личности.
-          <a href="/posts/beauty">Смотреть &raquo;</a></p>
+          <a href="/posts/pleinAir">Смотреть &raquo;</a></p>
         </div>
        </div>
   	
