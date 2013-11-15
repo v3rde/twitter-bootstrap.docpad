@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://ulyanafedorova.tk"
+			url: "http://ulyanalenina.com/"
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
@@ -30,7 +30,7 @@ docpadConfig = {
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				фото, фотография, фотосъемка, свадебная фотография, интерьер, предметы интерьера, фотограф москва, пленэр, Plain air photo, пленэир фотография, фэшн фотограф, фэшн, портфолио, фото для портфолио
+				фото, фотография, фотосъемка, свадебная фотография, интерьер, предметы интерьера, фотограф москва, пленэр, Plein air photo, Plein air съемка, пленер фотография, фэшн фотограф, фэшн, портфолио, фото для портфолио, фотограф Дмитров, Фотография Дмитров, фотосъемка в Дмитрове,
 				"""
 
 			# The website author's name
@@ -54,9 +54,9 @@ docpadConfig = {
 				"/vendor/twitter-bootstrap/js/bootstrap-carousel.js"
 
 				#Bootstrap image gallery
-				#"/vendor/twitter-bootstrap/js/bootstrap-image-gallery.js"
+				"/vendor/twitter-bootstrap/js/bootstrap-image-gallery.js"
 				#image
-				#"/vendor/twitter-bootstrap/js/jquery.prettyPhoto.js"
+				"/vendor/twitter-bootstrap/js/jquery.prettyPhoto.js"
 
 				#"/vendor/twitter-bootstrap/js/load-image.js"
 				#"/vendor/twitter-bootstrap/js/main.js"

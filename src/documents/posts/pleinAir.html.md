@@ -1,10 +1,8 @@
 ```
-title: Plain Air
+title: Plein Air
 layout: post
 tags: ['intro','post']
 ```
-
-Plain Air
 
 <div class="row">
     <div class="span16">

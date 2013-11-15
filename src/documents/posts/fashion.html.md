@@ -4,7 +4,7 @@ layout: post
 tags: ['intro','post']
 ```
 
-Fashion
+
 
 <div class="row">
     <div class="span16">

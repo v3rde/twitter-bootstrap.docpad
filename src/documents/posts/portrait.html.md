@@ -4,7 +4,7 @@ layout: post
 tags: ['outro','post']
 ```
 
-Portrait 
+
 
 <div class="row">
     <div class="span16">

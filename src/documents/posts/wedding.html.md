@@ -4,7 +4,7 @@ layout: post
 tags: ['intro','post']
 ```
 
-Wedding
+
 
 
 <div class="row">
