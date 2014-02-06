@@ -11,7 +11,7 @@ tags: ['intro','post']
     <div class="span16">
         <ul class="media-grid">
               	  	<li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="https://pp.vk.me/c313428/v313428109/41ea/mCrDX4MqgnU.jpg" height="200"><img class="group1" src="https://pp.vk.me/c313428/v313428109/41ea/mCrDX4MqgnU.jpg" title="Image Title" alt="alt title" width="300" height="200"/></a>
+                        <a class="thumbnail" rel="lightbox[group]" href="https://pp.vk.me/c313428/v313428109/4082/B0nLyWvUhps.jpg"  width="300" height="200"><img class="group1" src="https://pp.vk.me/c313428/v313428109/4082/B0nLyWvUhps.jpg" title="Image Title" alt="alt title" width="300" height="200" /></a>
                     </li> 
                     <li class="span3">
                         <a class="thumbnail" rel="lightbox[group]" href="https://pp.vk.me/c313428/v313428109/41e0/6ZegvVAvoSo.jpg"  width="300" height="200"><img class="group1" src="https://pp.vk.me/c313428/v313428109/41e0/6ZegvVAvoSo.jpg" title="Image Title" alt="alt title" width="300" height="200" /></a>
@@ -70,9 +70,7 @@ tags: ['intro','post']
                      <li class="span3">
                         <a class="thumbnail" rel="lightbox[group]" href="https://pp.vk.me/c313428/v313428109/4096/T9TKDMdE8xU.jpg"  width="300" height="200"><img class="group1" src="https://pp.vk.me/c313428/v313428109/4096/T9TKDMdE8xU.jpg" title="Image Title" alt="alt title" width="300" height="200" /></a>
                     </li> 
-                     <li class="span3">
-                        <a class="thumbnail" rel="lightbox[group]" href="https://pp.vk.me/c313428/v313428109/4082/B0nLyWvUhps.jpg"  width="300" height="200"><img class="group1" src="https://pp.vk.me/c313428/v313428109/4082/B0nLyWvUhps.jpg" title="Image Title" alt="alt title" width="300" height="200" /></a>
-                    </li> 
+                      
                     
                     <li class="span3">
                         <a class="thumbnail" rel="lightbox[group]" href="https://pp.vk.me/c313428/v313428109/4140/PPFSSTTpbQU.jpg"  width="300" height="200"><img class="group1" src="https://pp.vk.me/c313428/v313428109/4140/PPFSSTTpbQU.jpg" title="Image Title" alt="alt title" width="300" height="200" /></a>
