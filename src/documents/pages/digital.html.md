@@ -33,7 +33,8 @@ pageOrder: 1
 				</div>
 			</div>
 			<div class="item">
-				<img src="https://pp.vk.me/c417619/v417619109/6b06/OlPkmQgjak4.jpg" width="100%">
+				<img src="https://pp.vk.me/c619730/v619730109/391c/HMsvyq2vFeE.jpg" width="100%">
+				<!--img src="https://pp.vk.me/c606319/v606319109/344a/PZLIYqoW-uc.jpg" width="100%"-->
 				<div class="carousel-caption">
 					<h4>Fashion</h4>
 					<p>Открыть себя в глянце.</p>

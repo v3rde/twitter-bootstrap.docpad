@@ -2,7 +2,7 @@
 title: Contacts
 layout: page
 tags: ['intro','page']
-pageOrder: 4
+pageOrder: 5
 ```
 <div class="row" class="text-center">
 	<div class = "span12">
